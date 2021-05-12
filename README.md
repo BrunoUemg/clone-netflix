@@ -14,4 +14,4 @@
 
 ### portfólio:
 
-![netflix-img](C:\xampp\htdocs\netflix\img\netflix-img.png)
+![netflix-img](https://github.com/BrunoUemg/clone-netflix/blob/master/img/netflix-img.png)
